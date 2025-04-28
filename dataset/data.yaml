@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 14
+names: ['Front-windscreen-damage', 'Headlight-damage', 'Rear-windscreen-Damage', 'Runningboard-Damage', 'Sidemirror-Damage', 'Taillight-Damage', 'bonnet-dent', 'boot-dent', 'doorouter-dent', 'fender-dent', 'front-bumper-dent', 'quaterpanel-dent', 'rear-bumper-dent', 'roof-dent']
+
+roboflow:
+  workspace: mario-cv
+  project: etiquetado-de-danos
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mario-cv/etiquetado-de-danos/dataset/1

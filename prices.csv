@@ -1,0 +1,730 @@
+brand,model,part,damage_type,price
+Toyota,Camry,Windscreen,dent,1500
+Toyota,Camry,Windscreen,damage,1700
+Toyota,Camry,Windscreen,scratch,1300
+Toyota,Camry,Front Bumper,dent,1500
+Toyota,Camry,Front Bumper,damage,1700
+Toyota,Camry,Front Bumper,scratch,1300
+Toyota,Camry,Headlight,dent,1200
+Toyota,Camry,Headlight,damage,1500
+Toyota,Camry,Headlight,scratch,1100
+Toyota,Camry,Door,dent,800
+Toyota,Camry,Door,damage,950
+Toyota,Camry,Door,scratch,750
+Toyota,Camry,Running Board,dent,500
+Toyota,Camry,Running Board,damage,550
+Toyota,Camry,Running Board,scratch,450
+Toyota,Camry,Side Mirror,dent,600
+Toyota,Camry,Side Mirror,damage,650
+Toyota,Camry,Side Mirror,scratch,550
+Toyota,Camry,Taillight,dent,700
+Toyota,Camry,Taillight,damage,750
+Toyota,Camry,Taillight,scratch,650
+Toyota,Camry,Hood,dent,1600
+Toyota,Camry,Hood,damage,1700
+Toyota,Camry,Hood,scratch,1400
+Toyota,Camry,Trunk,dent,1600
+Toyota,Camry,Trunk,damage,1700
+Toyota,Camry,Trunk,scratch,1400
+Toyota,Corolla,Windscreen,dent,1500
+Toyota,Corolla,Windscreen,damage,1700
+Toyota,Corolla,Windscreen,scratch,1300
+Toyota,Corolla,Front Bumper,dent,1500
+Toyota,Corolla,Front Bumper,damage,1700
+Toyota,Corolla,Front Bumper,scratch,1300
+Toyota,Corolla,Headlight,dent,1200
+Toyota,Corolla,Headlight,damage,1500
+Toyota,Corolla,Headlight,scratch,1100
+Toyota,Corolla,Door,dent,800
+Toyota,Corolla,Door,damage,950
+Toyota,Corolla,Door,scratch,750
+Toyota,Corolla,Running Board,dent,500
+Toyota,Corolla,Running Board,damage,550
+Toyota,Corolla,Running Board,scratch,450
+Toyota,Corolla,Side Mirror,dent,600
+Toyota,Corolla,Side Mirror,damage,650
+Toyota,Corolla,Side Mirror,scratch,550
+Toyota,Corolla,Taillight,dent,700
+Toyota,Corolla,Taillight,damage,750
+Toyota,Corolla,Taillight,scratch,650
+Toyota,Corolla,Hood,dent,1600
+Toyota,Corolla,Hood,damage,1700
+Toyota,Corolla,Hood,scratch,1400
+Toyota,Corolla,Trunk,dent,1600
+Toyota,Corolla,Trunk,damage,1700
+Toyota,Corolla,Trunk,scratch,1400
+Toyota,Land Cruiser,Windscreen,dent,1500
+Toyota,Land Cruiser,Windscreen,damage,1700
+Toyota,Land Cruiser,Windscreen,scratch,1300
+Toyota,Land Cruiser,Front Bumper,dent,1500
+Toyota,Land Cruiser,Front Bumper,damage,1700
+Toyota,Land Cruiser,Front Bumper,scratch,1300
+Toyota,Land Cruiser,Headlight,dent,1200
+Toyota,Land Cruiser,Headlight,damage,1500
+Toyota,Land Cruiser,Headlight,scratch,1100
+Toyota,Land Cruiser,Door,dent,800
+Toyota,Land Cruiser,Door,damage,950
+Toyota,Land Cruiser,Door,scratch,750
+Toyota,Land Cruiser,Running Board,dent,500
+Toyota,Land Cruiser,Running Board,damage,550
+Toyota,Land Cruiser,Running Board,scratch,450
+Toyota,Land Cruiser,Side Mirror,dent,600
+Toyota,Land Cruiser,Side Mirror,damage,650
+Toyota,Land Cruiser,Side Mirror,scratch,550
+Toyota,Land Cruiser,Taillight,dent,700
+Toyota,Land Cruiser,Taillight,damage,750
+Toyota,Land Cruiser,Taillight,scratch,650
+Toyota,Land Cruiser,Hood,dent,1600
+Toyota,Land Cruiser,Hood,damage,1700
+Toyota,Land Cruiser,Hood,scratch,1400
+Toyota,Land Cruiser,Trunk,dent,1600
+Toyota,Land Cruiser,Trunk,damage,1700
+Toyota,Land Cruiser,Trunk,scratch,1400
+Honda,Civic,Windscreen,dent,1500
+Honda,Civic,Windscreen,damage,1700
+Honda,Civic,Windscreen,scratch,1300
+Honda,Civic,Front Bumper,dent,1500
+Honda,Civic,Front Bumper,damage,1700
+Honda,Civic,Front Bumper,scratch,1300
+Honda,Civic,Headlight,dent,1200
+Honda,Civic,Headlight,damage,1500
+Honda,Civic,Headlight,scratch,1100
+Honda,Civic,Door,dent,800
+Honda,Civic,Door,damage,950
+Honda,Civic,Door,scratch,750
+Honda,Civic,Running Board,dent,500
+Honda,Civic,Running Board,damage,550
+Honda,Civic,Running Board,scratch,450
+Honda,Civic,Side Mirror,dent,600
+Honda,Civic,Side Mirror,damage,650
+Honda,Civic,Side Mirror,scratch,550
+Honda,Civic,Taillight,dent,700
+Honda,Civic,Taillight,damage,750
+Honda,Civic,Taillight,scratch,650
+Honda,Civic,Hood,dent,1600
+Honda,Civic,Hood,damage,1700
+Honda,Civic,Hood,scratch,1400
+Honda,Civic,Trunk,dent,1600
+Honda,Civic,Trunk,damage,1700
+Honda,Civic,Trunk,scratch,1400
+Honda,Accord,Windscreen,dent,1500
+Honda,Accord,Windscreen,damage,1700
+Honda,Accord,Windscreen,scratch,1300
+Honda,Accord,Front Bumper,dent,1500
+Honda,Accord,Front Bumper,damage,1700
+Honda,Accord,Front Bumper,scratch,1300
+Honda,Accord,Headlight,dent,1200
+Honda,Accord,Headlight,damage,1500
+Honda,Accord,Headlight,scratch,1100
+Honda,Accord,Door,dent,800
+Honda,Accord,Door,damage,950
+Honda,Accord,Door,scratch,750
+Honda,Accord,Running Board,dent,500
+Honda,Accord,Running Board,damage,550
+Honda,Accord,Running Board,scratch,450
+Honda,Accord,Side Mirror,dent,600
+Honda,Accord,Side Mirror,damage,650
+Honda,Accord,Side Mirror,scratch,550
+Honda,Accord,Taillight,dent,700
+Honda,Accord,Taillight,damage,750
+Honda,Accord,Taillight,scratch,650
+Honda,Accord,Hood,dent,1600
+Honda,Accord,Hood,damage,1700
+Honda,Accord,Hood,scratch,1400
+Honda,Accord,Trunk,dent,1600
+Honda,Accord,Trunk,damage,1700
+Honda,Accord,Trunk,scratch,1400
+Honda,CR-V,Windscreen,dent,1500
+Honda,CR-V,Windscreen,damage,1700
+Honda,CR-V,Windscreen,scratch,1300
+Honda,CR-V,Front Bumper,dent,1500
+Honda,CR-V,Front Bumper,damage,1700
+Honda,CR-V,Front Bumper,scratch,1300
+Honda,CR-V,Headlight,dent,1200
+Honda,CR-V,Headlight,damage,1500
+Honda,CR-V,Headlight,scratch,1100
+Honda,CR-V,Door,dent,800
+Honda,CR-V,Door,damage,950
+Honda,CR-V,Door,scratch,750
+Honda,CR-V,Running Board,dent,500
+Honda,CR-V,Running Board,damage,550
+Honda,CR-V,Running Board,scratch,450
+Honda,CR-V,Side Mirror,dent,600
+Honda,CR-V,Side Mirror,damage,650
+Honda,CR-V,Side Mirror,scratch,550
+Honda,CR-V,Taillight,dent,700
+Honda,CR-V,Taillight,damage,750
+Honda,CR-V,Taillight,scratch,650
+Honda,CR-V,Hood,dent,1600
+Honda,CR-V,Hood,damage,1700
+Honda,CR-V,Hood,scratch,1400
+Honda,CR-V,Trunk,dent,1600
+Honda,CR-V,Trunk,damage,1700
+Honda,CR-V,Trunk,scratch,1400
+BMW,320i,Windscreen,dent,1500
+BMW,320i,Windscreen,damage,1700
+BMW,320i,Windscreen,scratch,1300
+BMW,320i,Front Bumper,dent,1500
+BMW,320i,Front Bumper,damage,1700
+BMW,320i,Front Bumper,scratch,1300
+BMW,320i,Headlight,dent,1200
+BMW,320i,Headlight,damage,1500
+BMW,320i,Headlight,scratch,1100
+BMW,320i,Door,dent,800
+BMW,320i,Door,damage,950
+BMW,320i,Door,scratch,750
+BMW,320i,Running Board,dent,500
+BMW,320i,Running Board,damage,550
+BMW,320i,Running Board,scratch,450
+BMW,320i,Side Mirror,dent,600
+BMW,320i,Side Mirror,damage,650
+BMW,320i,Side Mirror,scratch,550
+BMW,320i,Taillight,dent,700
+BMW,320i,Taillight,damage,750
+BMW,320i,Taillight,scratch,650
+BMW,320i,Hood,dent,1600
+BMW,320i,Hood,damage,1700
+BMW,320i,Hood,scratch,1400
+BMW,320i,Trunk,dent,1600
+BMW,320i,Trunk,damage,1700
+BMW,320i,Trunk,scratch,1400
+BMW,520i,Windscreen,dent,1500
+BMW,520i,Windscreen,damage,1700
+BMW,520i,Windscreen,scratch,1300
+BMW,520i,Front Bumper,dent,1500
+BMW,520i,Front Bumper,damage,1700
+BMW,520i,Front Bumper,scratch,1300
+BMW,520i,Headlight,dent,1200
+BMW,520i,Headlight,damage,1500
+BMW,520i,Headlight,scratch,1100
+BMW,520i,Door,dent,800
+BMW,520i,Door,damage,950
+BMW,520i,Door,scratch,750
+BMW,520i,Running Board,dent,500
+BMW,520i,Running Board,damage,550
+BMW,520i,Running Board,scratch,450
+BMW,520i,Side Mirror,dent,600
+BMW,520i,Side Mirror,damage,650
+BMW,520i,Side Mirror,scratch,550
+BMW,520i,Taillight,dent,700
+BMW,520i,Taillight,damage,750
+BMW,520i,Taillight,scratch,650
+BMW,520i,Hood,dent,1600
+BMW,520i,Hood,damage,1700
+BMW,520i,Hood,scratch,1400
+BMW,520i,Trunk,dent,1600
+BMW,520i,Trunk,damage,1700
+BMW,520i,Trunk,scratch,1400
+BMW,X5,Windscreen,dent,1500
+BMW,X5,Windscreen,damage,1700
+BMW,X5,Windscreen,scratch,1300
+BMW,X5,Front Bumper,dent,1500
+BMW,X5,Front Bumper,damage,1700
+BMW,X5,Front Bumper,scratch,1300
+BMW,X5,Headlight,dent,1200
+BMW,X5,Headlight,damage,1500
+BMW,X5,Headlight,scratch,1100
+BMW,X5,Door,dent,800
+BMW,X5,Door,damage,950
+BMW,X5,Door,scratch,750
+BMW,X5,Running Board,dent,500
+BMW,X5,Running Board,damage,550
+BMW,X5,Running Board,scratch,450
+BMW,X5,Side Mirror,dent,600
+BMW,X5,Side Mirror,damage,650
+BMW,X5,Side Mirror,scratch,550
+BMW,X5,Taillight,dent,700
+BMW,X5,Taillight,damage,750
+BMW,X5,Taillight,scratch,650
+BMW,X5,Hood,dent,1600
+BMW,X5,Hood,damage,1700
+BMW,X5,Hood,scratch,1400
+BMW,X5,Trunk,dent,1600
+BMW,X5,Trunk,damage,1700
+BMW,X5,Trunk,scratch,1400
+Ford,Fusion,Windscreen,dent,1500
+Ford,Fusion,Windscreen,damage,1700
+Ford,Fusion,Windscreen,scratch,1300
+Ford,Fusion,Front Bumper,dent,1500
+Ford,Fusion,Front Bumper,damage,1700
+Ford,Fusion,Front Bumper,scratch,1300
+Ford,Fusion,Headlight,dent,1200
+Ford,Fusion,Headlight,damage,1500
+Ford,Fusion,Headlight,scratch,1100
+Ford,Fusion,Door,dent,800
+Ford,Fusion,Door,damage,950
+Ford,Fusion,Door,scratch,750
+Ford,Fusion,Running Board,dent,500
+Ford,Fusion,Running Board,damage,550
+Ford,Fusion,Running Board,scratch,450
+Ford,Fusion,Side Mirror,dent,600
+Ford,Fusion,Side Mirror,damage,650
+Ford,Fusion,Side Mirror,scratch,550
+Ford,Fusion,Taillight,dent,700
+Ford,Fusion,Taillight,damage,750
+Ford,Fusion,Taillight,scratch,650
+Ford,Fusion,Hood,dent,1600
+Ford,Fusion,Hood,damage,1700
+Ford,Fusion,Hood,scratch,1400
+Ford,Fusion,Trunk,dent,1600
+Ford,Fusion,Trunk,damage,1700
+Ford,Fusion,Trunk,scratch,1400
+Ford,Focus,Windscreen,dent,1500
+Ford,Focus,Windscreen,damage,1700
+Ford,Focus,Windscreen,scratch,1300
+Ford,Focus,Front Bumper,dent,1500
+Ford,Focus,Front Bumper,damage,1700
+Ford,Focus,Front Bumper,scratch,1300
+Ford,Focus,Headlight,dent,1200
+Ford,Focus,Headlight,damage,1500
+Ford,Focus,Headlight,scratch,1100
+Ford,Focus,Door,dent,800
+Ford,Focus,Door,damage,950
+Ford,Focus,Door,scratch,750
+Ford,Focus,Running Board,dent,500
+Ford,Focus,Running Board,damage,550
+Ford,Focus,Running Board,scratch,450
+Ford,Focus,Side Mirror,dent,600
+Ford,Focus,Side Mirror,damage,650
+Ford,Focus,Side Mirror,scratch,550
+Ford,Focus,Taillight,dent,700
+Ford,Focus,Taillight,damage,750
+Ford,Focus,Taillight,scratch,650
+Ford,Focus,Hood,dent,1600
+Ford,Focus,Hood,damage,1700
+Ford,Focus,Hood,scratch,1400
+Ford,Focus,Trunk,dent,1600
+Ford,Focus,Trunk,damage,1700
+Ford,Focus,Trunk,scratch,1400
+Ford,Mustang,Windscreen,dent,1500
+Ford,Mustang,Windscreen,damage,1700
+Ford,Mustang,Windscreen,scratch,1300
+Ford,Mustang,Front Bumper,dent,1500
+Ford,Mustang,Front Bumper,damage,1700
+Ford,Mustang,Front Bumper,scratch,1300
+Ford,Mustang,Headlight,dent,1200
+Ford,Mustang,Headlight,damage,1500
+Ford,Mustang,Headlight,scratch,1100
+Ford,Mustang,Door,dent,800
+Ford,Mustang,Door,damage,950
+Ford,Mustang,Door,scratch,750
+Ford,Mustang,Running Board,dent,500
+Ford,Mustang,Running Board,damage,550
+Ford,Mustang,Running Board,scratch,450
+Ford,Mustang,Side Mirror,dent,600
+Ford,Mustang,Side Mirror,damage,650
+Ford,Mustang,Side Mirror,scratch,550
+Ford,Mustang,Taillight,dent,700
+Ford,Mustang,Taillight,damage,750
+Ford,Mustang,Taillight,scratch,650
+Ford,Mustang,Hood,dent,1600
+Ford,Mustang,Hood,damage,1700
+Ford,Mustang,Hood,scratch,1400
+Ford,Mustang,Trunk,dent,1600
+Ford,Mustang,Trunk,damage,1700
+Ford,Mustang,Trunk,scratch,1400
+Chevrolet,Malibu,Windscreen,dent,1500
+Chevrolet,Malibu,Windscreen,damage,1700
+Chevrolet,Malibu,Windscreen,scratch,1300
+Chevrolet,Malibu,Front Bumper,dent,1500
+Chevrolet,Malibu,Front Bumper,damage,1700
+Chevrolet,Malibu,Front Bumper,scratch,1300
+Chevrolet,Malibu,Headlight,dent,1200
+Chevrolet,Malibu,Headlight,damage,1500
+Chevrolet,Malibu,Headlight,scratch,1100
+Chevrolet,Malibu,Door,dent,800
+Chevrolet,Malibu,Door,damage,950
+Chevrolet,Malibu,Door,scratch,750
+Chevrolet,Malibu,Running Board,dent,500
+Chevrolet,Malibu,Running Board,damage,550
+Chevrolet,Malibu,Running Board,scratch,450
+Chevrolet,Malibu,Side Mirror,dent,600
+Chevrolet,Malibu,Side Mirror,damage,650
+Chevrolet,Malibu,Side Mirror,scratch,550
+Chevrolet,Malibu,Taillight,dent,700
+Chevrolet,Malibu,Taillight,damage,750
+Chevrolet,Malibu,Taillight,scratch,650
+Chevrolet,Malibu,Hood,dent,1600
+Chevrolet,Malibu,Hood,damage,1700
+Chevrolet,Malibu,Hood,scratch,1400
+Chevrolet,Malibu,Trunk,dent,1600
+Chevrolet,Malibu,Trunk,damage,1700
+Chevrolet,Malibu,Trunk,scratch,1400
+Chevrolet,Impala,Windscreen,dent,1500
+Chevrolet,Impala,Windscreen,damage,1700
+Chevrolet,Impala,Windscreen,scratch,1300
+Chevrolet,Impala,Front Bumper,dent,1500
+Chevrolet,Impala,Front Bumper,damage,1700
+Chevrolet,Impala,Front Bumper,scratch,1300
+Chevrolet,Impala,Headlight,dent,1200
+Chevrolet,Impala,Headlight,damage,1500
+Chevrolet,Impala,Headlight,scratch,1100
+Chevrolet,Impala,Door,dent,800
+Chevrolet,Impala,Door,damage,950
+Chevrolet,Impala,Door,scratch,750
+Chevrolet,Impala,Running Board,dent,500
+Chevrolet,Impala,Running Board,damage,550
+Chevrolet,Impala,Running Board,scratch,450
+Chevrolet,Impala,Side Mirror,dent,600
+Chevrolet,Impala,Side Mirror,damage,650
+Chevrolet,Impala,Side Mirror,scratch,550
+Chevrolet,Impala,Taillight,dent,700
+Chevrolet,Impala,Taillight,damage,750
+Chevrolet,Impala,Taillight,scratch,650
+Chevrolet,Impala,Hood,dent,1600
+Chevrolet,Impala,Hood,damage,1700
+Chevrolet,Impala,Hood,scratch,1400
+Chevrolet,Impala,Trunk,dent,1600
+Chevrolet,Impala,Trunk,damage,1700
+Chevrolet,Impala,Trunk,scratch,1400
+Chevrolet,Traverse,Windscreen,dent,1500
+Chevrolet,Traverse,Windscreen,damage,1700
+Chevrolet,Traverse,Windscreen,scratch,1300
+Chevrolet,Traverse,Front Bumper,dent,1500
+Chevrolet,Traverse,Front Bumper,damage,1700
+Chevrolet,Traverse,Front Bumper,scratch,1300
+Chevrolet,Traverse,Headlight,dent,1200
+Chevrolet,Traverse,Headlight,damage,1500
+Chevrolet,Traverse,Headlight,scratch,1100
+Chevrolet,Traverse,Door,dent,800
+Chevrolet,Traverse,Door,damage,950
+Chevrolet,Traverse,Door,scratch,750
+Chevrolet,Traverse,Running Board,dent,500
+Chevrolet,Traverse,Running Board,damage,550
+Chevrolet,Traverse,Running Board,scratch,450
+Chevrolet,Traverse,Side Mirror,dent,600
+Chevrolet,Traverse,Side Mirror,damage,650
+Chevrolet,Traverse,Side Mirror,scratch,550
+Chevrolet,Traverse,Taillight,dent,700
+Chevrolet,Traverse,Taillight,damage,750
+Chevrolet,Traverse,Taillight,scratch,650
+Chevrolet,Traverse,Hood,dent,1600
+Chevrolet,Traverse,Hood,damage,1700
+Chevrolet,Traverse,Hood,scratch,1400
+Chevrolet,Traverse,Trunk,dent,1600
+Chevrolet,Traverse,Trunk,damage,1700
+Chevrolet,Traverse,Trunk,scratch,1400
+Nissan,Altima,Windscreen,dent,1500
+Nissan,Altima,Windscreen,damage,1700
+Nissan,Altima,Windscreen,scratch,1300
+Nissan,Altima,Front Bumper,dent,1500
+Nissan,Altima,Front Bumper,damage,1700
+Nissan,Altima,Front Bumper,scratch,1300
+Nissan,Altima,Headlight,dent,1200
+Nissan,Altima,Headlight,damage,1500
+Nissan,Altima,Headlight,scratch,1100
+Nissan,Altima,Door,dent,800
+Nissan,Altima,Door,damage,950
+Nissan,Altima,Door,scratch,750
+Nissan,Altima,Running Board,dent,500
+Nissan,Altima,Running Board,damage,550
+Nissan,Altima,Running Board,scratch,450
+Nissan,Altima,Side Mirror,dent,600
+Nissan,Altima,Side Mirror,damage,650
+Nissan,Altima,Side Mirror,scratch,550
+Nissan,Altima,Taillight,dent,700
+Nissan,Altima,Taillight,damage,750
+Nissan,Altima,Taillight,scratch,650
+Nissan,Altima,Hood,dent,1600
+Nissan,Altima,Hood,damage,1700
+Nissan,Altima,Hood,scratch,1400
+Nissan,Altima,Trunk,dent,1600
+Nissan,Altima,Trunk,damage,1700
+Nissan,Altima,Trunk,scratch,1400
+Nissan,Sentra,Windscreen,dent,1500
+Nissan,Sentra,Windscreen,damage,1700
+Nissan,Sentra,Windscreen,scratch,1300
+Nissan,Sentra,Front Bumper,dent,1500
+Nissan,Sentra,Front Bumper,damage,1700
+Nissan,Sentra,Front Bumper,scratch,1300
+Nissan,Sentra,Headlight,dent,1200
+Nissan,Sentra,Headlight,damage,1500
+Nissan,Sentra,Headlight,scratch,1100
+Nissan,Sentra,Door,dent,800
+Nissan,Sentra,Door,damage,950
+Nissan,Sentra,Door,scratch,750
+Nissan,Sentra,Running Board,dent,500
+Nissan,Sentra,Running Board,damage,550
+Nissan,Sentra,Running Board,scratch,450
+Nissan,Sentra,Side Mirror,dent,600
+Nissan,Sentra,Side Mirror,damage,650
+Nissan,Sentra,Side Mirror,scratch,550
+Nissan,Sentra,Taillight,dent,700
+Nissan,Sentra,Taillight,damage,750
+Nissan,Sentra,Taillight,scratch,650
+Nissan,Sentra,Hood,dent,1600
+Nissan,Sentra,Hood,damage,1700
+Nissan,Sentra,Hood,scratch,1400
+Nissan,Sentra,Trunk,dent,1600
+Nissan,Sentra,Trunk,damage,1700
+Nissan,Sentra,Trunk,scratch,1400
+Nissan,Maxima,Windscreen,dent,1500
+Nissan,Maxima,Windscreen,damage,1700
+Nissan,Maxima,Windscreen,scratch,1300
+Nissan,Maxima,Front Bumper,dent,1500
+Nissan,Maxima,Front Bumper,damage,1700
+Nissan,Maxima,Front Bumper,scratch,1300
+Nissan,Maxima,Headlight,dent,1200
+Nissan,Maxima,Headlight,damage,1500
+Nissan,Maxima,Headlight,scratch,1100
+Nissan,Maxima,Door,dent,800
+Nissan,Maxima,Door,damage,950
+Nissan,Maxima,Door,scratch,750
+Nissan,Maxima,Running Board,dent,500
+Nissan,Maxima,Running Board,damage,550
+Nissan,Maxima,Running Board,scratch,450
+Nissan,Maxima,Side Mirror,dent,600
+Nissan,Maxima,Side Mirror,damage,650
+Nissan,Maxima,Side Mirror,scratch,550
+Nissan,Maxima,Taillight,dent,700
+Nissan,Maxima,Taillight,damage,750
+Nissan,Maxima,Taillight,scratch,650
+Nissan,Maxima,Hood,dent,1600
+Nissan,Maxima,Hood,damage,1700
+Nissan,Maxima,Hood,scratch,1400
+Nissan,Maxima,Trunk,dent,1600
+Nissan,Maxima,Trunk,damage,1700
+Nissan,Maxima,Trunk,scratch,1400
+Hyundai,Elantra,Windscreen,dent,1500
+Hyundai,Elantra,Windscreen,damage,1700
+Hyundai,Elantra,Windscreen,scratch,1300
+Hyundai,Elantra,Front Bumper,dent,1500
+Hyundai,Elantra,Front Bumper,damage,1700
+Hyundai,Elantra,Front Bumper,scratch,1300
+Hyundai,Elantra,Headlight,dent,1200
+Hyundai,Elantra,Headlight,damage,1500
+Hyundai,Elantra,Headlight,scratch,1100
+Hyundai,Elantra,Door,dent,800
+Hyundai,Elantra,Door,damage,950
+Hyundai,Elantra,Door,scratch,750
+Hyundai,Elantra,Running Board,dent,500
+Hyundai,Elantra,Running Board,damage,550
+Hyundai,Elantra,Running Board,scratch,450
+Hyundai,Elantra,Side Mirror,dent,600
+Hyundai,Elantra,Side Mirror,damage,650
+Hyundai,Elantra,Side Mirror,scratch,550
+Hyundai,Elantra,Taillight,dent,700
+Hyundai,Elantra,Taillight,damage,750
+Hyundai,Elantra,Taillight,scratch,650
+Hyundai,Elantra,Hood,dent,1600
+Hyundai,Elantra,Hood,damage,1700
+Hyundai,Elantra,Hood,scratch,1400
+Hyundai,Elantra,Trunk,dent,1600
+Hyundai,Elantra,Trunk,damage,1700
+Hyundai,Elantra,Trunk,scratch,1400
+Hyundai,Sonata,Windscreen,dent,1500
+Hyundai,Sonata,Windscreen,damage,1700
+Hyundai,Sonata,Windscreen,scratch,1300
+Hyundai,Sonata,Front Bumper,dent,1500
+Hyundai,Sonata,Front Bumper,damage,1700
+Hyundai,Sonata,Front Bumper,scratch,1300
+Hyundai,Sonata,Headlight,dent,1200
+Hyundai,Sonata,Headlight,damage,1500
+Hyundai,Sonata,Headlight,scratch,1100
+Hyundai,Sonata,Door,dent,800
+Hyundai,Sonata,Door,damage,950
+Hyundai,Sonata,Door,scratch,750
+Hyundai,Sonata,Running Board,dent,500
+Hyundai,Sonata,Running Board,damage,550
+Hyundai,Sonata,Running Board,scratch,450
+Hyundai,Sonata,Side Mirror,dent,600
+Hyundai,Sonata,Side Mirror,damage,650
+Hyundai,Sonata,Side Mirror,scratch,550
+Hyundai,Sonata,Taillight,dent,700
+Hyundai,Sonata,Taillight,damage,750
+Hyundai,Sonata,Taillight,scratch,650
+Hyundai,Sonata,Hood,dent,1600
+Hyundai,Sonata,Hood,damage,1700
+Hyundai,Sonata,Hood,scratch,1400
+Hyundai,Sonata,Trunk,dent,1600
+Hyundai,Sonata,Trunk,damage,1700
+Hyundai,Sonata,Trunk,scratch,1400
+Hyundai,Tucson,Windscreen,dent,1500
+Hyundai,Tucson,Windscreen,damage,1700
+Hyundai,Tucson,Windscreen,scratch,1300
+Hyundai,Tucson,Front Bumper,dent,1500
+Hyundai,Tucson,Front Bumper,damage,1700
+Hyundai,Tucson,Front Bumper,scratch,1300
+Hyundai,Tucson,Headlight,dent,1200
+Hyundai,Tucson,Headlight,damage,1500
+Hyundai,Tucson,Headlight,scratch,1100
+Hyundai,Tucson,Door,dent,800
+Hyundai,Tucson,Door,damage,950
+Hyundai,Tucson,Door,scratch,750
+Hyundai,Tucson,Running Board,dent,500
+Hyundai,Tucson,Running Board,damage,550
+Hyundai,Tucson,Running Board,scratch,450
+Hyundai,Tucson,Side Mirror,dent,600
+Hyundai,Tucson,Side Mirror,damage,650
+Hyundai,Tucson,Side Mirror,scratch,550
+Hyundai,Tucson,Taillight,dent,700
+Hyundai,Tucson,Taillight,damage,750
+Hyundai,Tucson,Taillight,scratch,650
+Hyundai,Tucson,Hood,dent,1600
+Hyundai,Tucson,Hood,damage,1700
+Hyundai,Tucson,Hood,scratch,1400
+Hyundai,Tucson,Trunk,dent,1600
+Hyundai,Tucson,Trunk,damage,1700
+Hyundai,Tucson,Trunk,scratch,1400
+Kia,Sorento,Windscreen,dent,1500
+Kia,Sorento,Windscreen,damage,1700
+Kia,Sorento,Windscreen,scratch,1300
+Kia,Sorento,Front Bumper,dent,1500
+Kia,Sorento,Front Bumper,damage,1700
+Kia,Sorento,Front Bumper,scratch,1300
+Kia,Sorento,Headlight,dent,1200
+Kia,Sorento,Headlight,damage,1500
+Kia,Sorento,Headlight,scratch,1100
+Kia,Sorento,Door,dent,800
+Kia,Sorento,Door,damage,950
+Kia,Sorento,Door,scratch,750
+Kia,Sorento,Running Board,dent,500
+Kia,Sorento,Running Board,damage,550
+Kia,Sorento,Running Board,scratch,450
+Kia,Sorento,Side Mirror,dent,600
+Kia,Sorento,Side Mirror,damage,650
+Kia,Sorento,Side Mirror,scratch,550
+Kia,Sorento,Taillight,dent,700
+Kia,Sorento,Taillight,damage,750
+Kia,Sorento,Taillight,scratch,650
+Kia,Sorento,Hood,dent,1600
+Kia,Sorento,Hood,damage,1700
+Kia,Sorento,Hood,scratch,1400
+Kia,Sorento,Trunk,dent,1600
+Kia,Sorento,Trunk,damage,1700
+Kia,Sorento,Trunk,scratch,1400
+Kia,Optima,Windscreen,dent,1500
+Kia,Optima,Windscreen,damage,1700
+Kia,Optima,Windscreen,scratch,1300
+Kia,Optima,Front Bumper,dent,1500
+Kia,Optima,Front Bumper,damage,1700
+Kia,Optima,Front Bumper,scratch,1300
+Kia,Optima,Headlight,dent,1200
+Kia,Optima,Headlight,damage,1500
+Kia,Optima,Headlight,scratch,1100
+Kia,Optima,Door,dent,800
+Kia,Optima,Door,damage,950
+Kia,Optima,Door,scratch,750
+Kia,Optima,Running Board,dent,500
+Kia,Optima,Running Board,damage,550
+Kia,Optima,Running Board,scratch,450
+Kia,Optima,Side Mirror,dent,600
+Kia,Optima,Side Mirror,damage,650
+Kia,Optima,Side Mirror,scratch,550
+Kia,Optima,Taillight,dent,700
+Kia,Optima,Taillight,damage,750
+Kia,Optima,Taillight,scratch,650
+Kia,Optima,Hood,dent,1600
+Kia,Optima,Hood,damage,1700
+Kia,Optima,Hood,scratch,1400
+Kia,Optima,Trunk,dent,1600
+Kia,Optima,Trunk,damage,1700
+Kia,Optima,Trunk,scratch,1400
+Kia,Forte,Windscreen,dent,1500
+Kia,Forte,Windscreen,damage,1700
+Kia,Forte,Windscreen,scratch,1300
+Kia,Forte,Front Bumper,dent,1500
+Kia,Forte,Front Bumper,damage,1700
+Kia,Forte,Front Bumper,scratch,1300
+Kia,Forte,Headlight,dent,1200
+Kia,Forte,Headlight,damage,1500
+Kia,Forte,Headlight,scratch,1100
+Kia,Forte,Door,dent,800
+Kia,Forte,Door,damage,950
+Kia,Forte,Door,scratch,750
+Kia,Forte,Running Board,dent,500
+Kia,Forte,Running Board,damage,550
+Kia,Forte,Running Board,scratch,450
+Kia,Forte,Side Mirror,dent,600
+Kia,Forte,Side Mirror,damage,650
+Kia,Forte,Side Mirror,scratch,550
+Kia,Forte,Taillight,dent,700
+Kia,Forte,Taillight,damage,750
+Kia,Forte,Taillight,scratch,650
+Kia,Forte,Hood,dent,1600
+Kia,Forte,Hood,damage,1700
+Kia,Forte,Hood,scratch,1400
+Kia,Forte,Trunk,dent,1600
+Kia,Forte,Trunk,damage,1700
+Kia,Forte,Trunk,scratch,1400
+Mazda,3,Windscreen,dent,1500
+Mazda,3,Windscreen,damage,1700
+Mazda,3,Windscreen,scratch,1300
+Mazda,3,Front Bumper,dent,1500
+Mazda,3,Front Bumper,damage,1700
+Mazda,3,Front Bumper,scratch,1300
+Mazda,3,Headlight,dent,1200
+Mazda,3,Headlight,damage,1500
+Mazda,3,Headlight,scratch,1100
+Mazda,3,Door,dent,800
+Mazda,3,Door,damage,950
+Mazda,3,Door,scratch,750
+Mazda,3,Running Board,dent,500
+Mazda,3,Running Board,damage,550
+Mazda,3,Running Board,scratch,450
+Mazda,3,Side Mirror,dent,600
+Mazda,3,Side Mirror,damage,650
+Mazda,3,Side Mirror,scratch,550
+Mazda,3,Taillight,dent,700
+Mazda,3,Taillight,damage,750
+Mazda,3,Taillight,scratch,650
+Mazda,3,Hood,dent,1600
+Mazda,3,Hood,damage,1700
+Mazda,3,Hood,scratch,1400
+Mazda,3,Trunk,dent,1600
+Mazda,3,Trunk,damage,1700
+Mazda,3,Trunk,scratch,1400
+Mazda,6,Windscreen,dent,1500
+Mazda,6,Windscreen,damage,1700
+Mazda,6,Windscreen,scratch,1300
+Mazda,6,Front Bumper,dent,1500
+Mazda,6,Front Bumper,damage,1700
+Mazda,6,Front Bumper,scratch,1300
+Mazda,6,Headlight,dent,1200
+Mazda,6,Headlight,damage,1500
+Mazda,6,Headlight,scratch,1100
+Mazda,6,Door,dent,800
+Mazda,6,Door,damage,950
+Mazda,6,Door,scratch,750
+Mazda,6,Running Board,dent,500
+Mazda,6,Running Board,damage,550
+Mazda,6,Running Board,scratch,450
+Mazda,6,Side Mirror,dent,600
+Mazda,6,Side Mirror,damage,650
+Mazda,6,Side Mirror,scratch,550
+Mazda,6,Taillight,dent,700
+Mazda,6,Taillight,damage,750
+Mazda,6,Taillight,scratch,650
+Mazda,6,Hood,dent,1600
+Mazda,6,Hood,damage,1700
+Mazda,6,Hood,scratch,1400
+Mazda,6,Trunk,dent,1600
+Mazda,6,Trunk,damage,1700
+Mazda,6,Trunk,scratch,1400
+Mazda,CX-5,Windscreen,dent,1500
+Mazda,CX-5,Windscreen,damage,1700
+Mazda,CX-5,Windscreen,scratch,1300
+Mazda,CX-5,Front Bumper,dent,1500
+Mazda,CX-5,Front Bumper,damage,1700
+Mazda,CX-5,Front Bumper,scratch,1300
+Mazda,CX-5,Headlight,dent,1200
+Mazda,CX-5,Headlight,damage,1500
+Mazda,CX-5,Headlight,scratch,1100
+Mazda,CX-5,Door,dent,800
+Mazda,CX-5,Door,damage,950
+Mazda,CX-5,Door,scratch,750
+Mazda,CX-5,Running Board,dent,500
+Mazda,CX-5,Running Board,damage,550
+Mazda,CX-5,Running Board,scratch,450
+Mazda,CX-5,Side Mirror,dent,600
+Mazda,CX-5,Side Mirror,damage,650
+Mazda,CX-5,Side Mirror,scratch,550
+Mazda,CX-5,Taillight,dent,700
+Mazda,CX-5,Taillight,damage,750
+Mazda,CX-5,Taillight,scratch,650
+Mazda,CX-5,Hood,dent,1600
+Mazda,CX-5,Hood,damage,1700
+Mazda,CX-5,Hood,scratch,1400
+Mazda,CX-5,Trunk,dent,1600
+Mazda,CX-5,Trunk,damage,1700
+Mazda,CX-5,Trunk,scratch,1400

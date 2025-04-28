@@ -1,0 +1,6 @@
+*.pt filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/fc/49/fc49e41056416e3e3591c796bd4ca71e12f9f5a1114b4de7a99d98e5abc43ba9 filter=lfs diff=lfs merge=lfs -text
+.git/objects/pack/pack-ef4ce3293a9f5913eb0d298fd135c009847e34b2.pack filter=lfs diff=lfs merge=lfs -text
+dataset/runs/detect/train5/weights/best.pt filter=lfs diff=lfs merge=lfs -text
+dataset/runs/detect/train5/weights/last.pt filter=lfs diff=lfs merge=lfs -text
+models/best.pt filter=lfs diff=lfs merge=lfs -text
