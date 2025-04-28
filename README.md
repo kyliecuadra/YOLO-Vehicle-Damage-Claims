@@ -20,7 +20,13 @@ project/
 |   └── train.py           # For training dataset
 |   └── predict.py         # For testing the model
 ├── static/
+|   ├── result/
+|   └── uploads/  
 ├── templates/
+|   └── index.html  
+├── requirements.txt
+├── car_brand_models.csv   # CSV file for car brands and models
+├── prices.csv             # CSV file for claims amount
 ├── requirements.txt
 └── README.md
 ```
