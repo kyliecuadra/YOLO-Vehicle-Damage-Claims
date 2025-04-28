@@ -1,6 +1,6 @@
 # Vehicle Damage Claim Detection
 
-This project uses a YOLOv8 model trained with a vehicle damage dataset to detect damages and assist in claims processing. It is built with Flask for the backend server and Ultralytics for model training and inference.
+This project uses a YOLOv11 model trained with a vehicle damage dataset to detect damages and assist in claims processing. It is built with Flask for the backend server and Ultralytics for model training and inference.
 
 ## Project Structure
 
