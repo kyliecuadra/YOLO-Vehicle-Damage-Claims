@@ -51,7 +51,7 @@ python app.py
 3. Open your browser at:
 
 ```
-http://localhost:5000
+127.0.0.1:5000
 ```
 
 ## Model Information
