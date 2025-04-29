@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 # === SETTINGS ===
-MODEL = 'yolo11m.pt'               # Use a YOLO checkpoint (n/s/m/l/x) or a custom one
+MODEL = 'vehicle_damages_claims.pt'               # Use a YOLO checkpoint (n/s/m/l/x) or a custom one
 DATASET_YAML = 'data.yaml'  # Dataset YAML
 EPOCHS = 50
 DEVICE = 'cpu'                       # GPU = '0', CPU = 'cpu'

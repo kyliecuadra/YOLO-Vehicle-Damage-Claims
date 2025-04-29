@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 # === SETTINGS ===
-MODEL = 'path/to/best.pt'           # Your trained model
+MODEL = '../models/best.pt'           # Your trained model
 SOURCE = 'path/to/image_or_folder'  # Single image or folder
 DEVICE = '0'                        # GPU = '0', CPU = 'cpu'
 CONFIDENCE = 0.50                 # Confidence threshold
