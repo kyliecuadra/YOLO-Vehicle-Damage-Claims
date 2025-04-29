@@ -10,7 +10,7 @@ project/
 ├── model/
 │   └── best.pt            # YOLOv11 trained model
 ├── dataset/               # Dataset for future training
-│   ├── yolo11m.pt   
+│   ├── vehicle_damages_claims.pt   
 │   ├── requirements.txt   
 │   ├── runs/
 │   ├── images/
